@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Utkarsh Kashyap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kashyap-blue?logo=linkedin)](https://www.linkedin.com/in/priyanshu-kashyap-75ba1728b/)
-[![Discord](https://img.shields.io/badge/Discord-.utkarshkashyap.-7289DA?logo=discord)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-.utkarshkashyap-7289DA?logo=discord)](https://discord.com)
 
 ---
 
